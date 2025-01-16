@@ -20,3 +20,6 @@ This project involved designing and developing an interactive sales dashboard us
 5. Interactive Filters: Added interactive filters to enable users to drill down into specific data points.
 
 ## PowerBI dashboard
+https://github.com/thariniselvakumar/PowerBI-sales-Dashboard/blob/main/powerbiproject.pbix
+
+
